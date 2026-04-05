@@ -1,0 +1,20 @@
+--- Physician Review Note ---
+Date: 2025-03-22
+Physician: Dr. Suresh Reddy (Orthopedic Surgery)
+Patient: Lakshmi Venkatesh (P002)
+
+Post-operative Day 17 — Video Review
+
+Assessment:
+Patient recovering well from right total knee replacement. Wound healing on track — sutures removed Day 14 without complications. Knee ROM improving — currently 72 degrees active flexion, targeting 90 degrees by Day 30.
+
+Instructions for Nursing Team:
+1. WOUND CARE: Continue daily wound inspection and dressing. Wound should be completely dry by now. ANY sign of increased redness, warmth, swelling, or discharge — escalate IMMEDIATELY. Post-surgical wound infection in a diabetic patient is a serious risk.
+2. PHYSIOTHERAPY: Increase exercise intensity. Target exercises — wall slides, straight leg raises, ankle pumps, heel slides. Patient should aim for 5-degree improvement per week.
+3. DVT PROPHYLAXIS: Continue Enoxaparin 40mg SC daily until Day 28 (April 2). Monitor injection sites for excessive bruising.
+4. PAIN MANAGEMENT: Pain should be decreasing. If pain increases or changes character (sharp, throbbing, or at rest), this could indicate a complication — escalate.
+5. GLUCOSE: Post-surgical glucose expected to be elevated but fasting should be under 160. If consistently above 160, coordinate with patient's diabetologist.
+6. MOBILITY: Encourage walking with walker. Increase distance gradually. Target: independent walker ambulation within house by Day 30.
+7. INFECTION WATCH PROTOCOL: Temperature above 100.4°F at any point = immediate call to my office. Do not wait for next visit.
+
+Next Review: April 4, 2025 — in-person clinic visit. Patient to be brought by family. Will assess wound healing, ROM, and decide on next phase of rehab.

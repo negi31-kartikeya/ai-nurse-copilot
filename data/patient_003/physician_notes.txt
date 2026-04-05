@@ -1,0 +1,24 @@
+--- Physician Review Note ---
+Date: 2025-03-18
+Physician: Dr. Pradeep Gupta (Pulmonology)
+Patient: Mohammed Ismail (P003)
+
+Review Summary:
+Video review with patient, wife, and son (from Dubai). COPD currently in stable phase. Patient has not had an acute exacerbation in 4 months — the prophylactic Azithromycin appears to be working. However, I have concerns about long-term inhaler technique and compliance which we've discussed multiple times.
+
+Current Assessment:
+- COPD: SpO2 at 94% today — acceptable for Stage 3. Peak flow at 220 L/min vs personal best 250 — indicating moderate airflow limitation. No acute wheezing or crepitations.
+- Medication adherence: Patient cooperative but I suspect evening Symbicort dose compliance is inconsistent. Wife to monitor. The importance of both doses was reinforced.
+- Depression: Patient appears low in mood. Escitalopram 10mg ongoing. Son reports father is less talkative and less interested in activities. PHQ-9 assessment needed — if score worsens beyond 15, consider psychiatry referral. Increasing physical activity and social engagement may help.
+- Exercise tolerance: 6-minute walk test showing slight decline (195m → current levels to be tracked). Not alarming yet but trend matters.
+
+Conditional Instructions for Nursing Team:
+1. SpO2 ESCALATION: If SpO2 drops below 92% on TWO consecutive visits, call my office. We may need to add Roflumilast or evaluate for home oxygen therapy.
+2. EXACERBATION SIGNS: If patient develops increased cough with colored sputum, fever > 100°F, or significant increase in breathlessness — start prednisolone 40mg daily (5-day course available at home) AND call my office. Do not wait for scheduled visit.
+3. INHALER TECHNIQUE: Continue correcting at every visit. If technique remains poor after 2 more months, consider switching to nebulized delivery.
+4. DEPRESSION: Administer PHQ-9 monthly. Current score from February was 12 (moderate). If it crosses 15, refer to psychiatrist.
+5. VACCINATION: Influenza vaccine due by mid-April. Also check pneumococcal vaccination status.
+6. SPIROMETRY: Quarterly spirometry due April — schedule at Apollo Diagnostics.
+7. MEDICATION ADHERENCE: If patient continues to resist medication, consider simplification — discuss with me about moving to a triple-combination inhaler (Tiotropium + Formoterol + Budesonide in single device) to reduce the number of inhalers from 2 to 1.
+
+Next Review: April 1, 2025 — video call

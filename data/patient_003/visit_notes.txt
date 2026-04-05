@@ -1,0 +1,88 @@
+--- Visit Note: 2025-03-29 (Saturday) ---
+Nurse: Rehana P.
+Visit Type: Routine
+Duration: 35 minutes
+
+Vitals: BP 128/82, SpO2 91%, RR 22, HR 78, Temp 98.6°F
+Peak Flow: 180 L/min (personal best: 250 L/min — significantly below)
+
+CONCERN: SpO2 at 91% — below target threshold of 92%. Has been gradually dropping over the past 2 weeks (was 94% on March 18). Patient admits "saans thodi zyada phoolti hai aaj kal" (getting more breathless these days). Increased breathlessness on mild exertion — walking to bathroom leaves him winded.
+
+MEDICATION ADHERENCE ISSUE: Checked inhaler usage. Symbicort inhaler (twice daily) — patient says he's been using it "kabhi kabhi" (sometimes). On further questioning, Zainab begum confirmed "sahab subah ka toh le lete hain par shaam ko bhool jaate hain, kehte hain kya farak padta hai" (he takes the morning one but forgets the evening dose, says it doesn't make a difference). This has been happening for ~2 weeks. Evening dose non-compliance likely contributing to declining SpO2 and peak flow.
+
+Tiotropium inhaler: Taking daily. Technique check — POOR. Patient breathing in too fast. Corrected and demonstrated proper technique again. This is the 4th time in 2 months.
+
+Rescue inhaler: Used 3 times yesterday (was using ~1 time/week a month ago). Increasing rescue inhaler usage is a red flag for worsening COPD control.
+
+Azithromycin prophylaxis: Zainab says he took it Monday and Wednesday but "aaj wali goli nahi li, kehte hain itni dawai kaun khata hai" (didn't take today's dose, says who takes so many medicines). Pattern of antibiotic prophylaxis non-adherence noted.
+
+Depression check: Patient quieter than usual. When asked "kaisa mood hai" (how is mood), said "kya batayein, bore ho gaye hain ghar baith ke" (what to say, bored of sitting at home). Not engaging with TV or newspaper as he used to. PHQ-9 due next week — expecting elevation.
+
+Pulmonary rehab: Pursed lip breathing exercise done but patient stopped after 3 minutes citing fatigue. Walking exercise skipped — patient said "aaj nahi ho payega" (can't do it today).
+
+Plan: ALERT — SpO2 declining, medication adherence poor, rescue inhaler use increasing. This pattern suggests early exacerbation risk. Flag to Dr. Gupta. Reinforce evening Symbicort compliance urgently. Schedule PHQ-9 for Tuesday.
+
+---
+
+--- Visit Note: 2025-03-25 (Tuesday) ---
+Nurse: Rehana P.
+Visit Type: Routine
+Duration: 30 minutes
+
+Vitals: BP 130/84, SpO2 92%, RR 20, HR 76, Temp 98.4°F
+Peak Flow: 195 L/min
+
+SpO2 borderline at 92%. Was 93% last Saturday. Slight downward trend noted but not alarming yet.
+
+Medication: Checked — Tiotropium and morning Symbicort taken. Didn't ask about evening dose specifically (note for next visit to verify).
+
+Patient mood: Okay today. Watched cricket — India vs England. Talked about it briefly. Seems better on days he has something to engage with.
+
+Breathing exercises done — 5 minutes of pursed lip breathing. Short walk in corridor — 2 minutes. Tolerated okay with mild breathlessness.
+
+Rescue inhaler: Used once yesterday (in the evening). Within normal range.
+
+Visit routine. No major concerns. Next visit: Saturday.
+
+---
+
+--- Visit Note: 2025-03-22 (Saturday) ---
+Nurse: Rehana P.
+Visit Type: Routine
+Duration: 35 minutes
+
+Vitals: BP 126/80, SpO2 93%, RR 18, HR 74, Temp 98.2°F
+Peak Flow: 210 L/min
+
+Patient stable. SpO2 good today.
+
+Medication review: All inhalers being used. Technique check on Tiotropium — slightly better than last month but still rushing the inhalation. Corrected again.
+
+6-minute walk test (modified — indoor corridor): Walked 180 meters. SpO2 dropped to 90% during test, recovered to 93% after 2 min rest. Slight decline from last week (195 meters). Noted.
+
+Mood: Patient says "theek hoon" (I'm fine) but wife pulled me aside and said "sahab raat ko neend nahi aati, subah se chup rehte hain" (he doesn't sleep at night and stays quiet from morning). Sleep disturbance + social withdrawal — depression may be worsening. Will push for PHQ-9 at next appropriate time.
+
+Pulmonary rehab exercises completed. Good effort today.
+
+Plan: Continue monitoring. Watch for SpO2 trend. Address depression assessment soon.
+
+---
+
+--- Visit Note: 2025-03-18 (Tuesday) ---
+Nurse: Rehana P.
+Visit Type: Routine + Physician review follow-up
+Duration: 40 minutes
+
+Vitals: BP 130/82, SpO2 94%, RR 18, HR 72, Temp 98.4°F
+Peak Flow: 220 L/min
+
+Dr. Gupta reviewed patient today via video call. Key points:
+- COPD currently in stable phase. SpO2 at 94% is acceptable.
+- Continue current inhaler regimen. Stressed importance of BOTH doses of Symbicort.
+- Prophylactic Azithromycin to continue — proven to reduce exacerbation frequency by 30-40%.
+- If SpO2 drops below 92% on two consecutive visits, call his office. May need to add roflumilast or consider home oxygen evaluation.
+- Depression: Dr. Gupta agrees Escitalopram should be continued. If PHQ-9 worsens, consider psychiatry referral.
+- Quarterly spirometry due in April. Will schedule at Apollo Diagnostics.
+- Flu season approaching — ensure patient gets influenza vaccine by mid-April.
+
+Patient cooperative during review. Son Faisal joined the video call from Dubai — expressed concern about father's low mood and asked about increasing outdoor activity. Dr. Gupta advised supervised outdoor walks if air quality permits.

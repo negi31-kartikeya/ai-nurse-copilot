@@ -1,0 +1,23 @@
+--- Physician Review Note ---
+Date: 2025-03-20
+Physician: Dr. Anjali Mehta (Internal Medicine & Diabetology)
+Patient: Ramesh Sharma (P001)
+
+Review Summary:
+Reviewed patient's vitals and nurse notes from the past 2 weeks. Overall trend is acceptable but glucose control needs tightening. BP has been borderline — within acceptable limits but showing a slight upward drift that warrants monitoring.
+
+Current Assessment:
+- Diabetes: FBS ranging 155-178 over past 2 weeks. Slightly above target (100-130). Post-meal glucose occasionally crossing 200. Diet compliance likely an issue — common in elderly male patients. Current Metformin 500mg BD is a conservative dose.
+- Hypertension: Systolic 132-142 range. Still under control but the upward trend is noted. Currently on Amlodipine 5mg + Telmisartan 40mg.
+- CKD: Last eGFR was 52 (Stage 3a). Stable. Quarterly monitoring in place.
+- New wound on left shin: Noted by nurse on March 17. Diabetic patients heal slowly — needs close monitoring. If not improving in 2 weeks, consider wound care specialist referral.
+
+Conditional Instructions for Nursing Team:
+1. GLUCOSE ESCALATION: If fasting blood sugar stays above 200 mg/dL for 3 or more consecutive readings, call my office immediately. Do NOT wait for next scheduled review. We may need to increase Metformin to 1000mg or add a DPP-4 inhibitor.
+2. BP ESCALATION: If systolic blood pressure crosses 150 mmHg on 2 or more consecutive readings, increase Amlodipine from 5mg to 10mg and inform me. Continue monitoring daily.
+3. WOUND MONITORING: If the shin wound shows any signs of infection (increased redness, warmth, discharge, odor, or patient reports increased pain), escalate immediately. Consider wound swab for culture if infection suspected.
+4. QUARTERLY LABS DUE: Schedule HbA1c, renal panel (creatinine, eGFR, urine albumin-creatinine ratio), and lipid profile for first week of April. Fasting sample required.
+5. DIET COUNSELING: Reinforce diabetic diet. Patient has a tendency to eat sweets when visitors come. Family (especially wife) to be counseled on managing social eating situations.
+
+Next Scheduled Review: April 3, 2025
+Mode: Video call with patient + family (daughter to join from USA)

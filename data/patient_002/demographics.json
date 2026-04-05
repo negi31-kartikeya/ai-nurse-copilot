@@ -1,0 +1,58 @@
+{
+  "patient_id": "P002",
+  "name": "Lakshmi Venkatesh",
+  "age": 65,
+  "gender": "Female",
+  "preferred_address": "Lakshmi aunty",
+  "primary_diagnoses": [
+    "Post Total Knee Replacement — Right knee (surgery date: 2025-03-05)",
+    "Type 2 Diabetes Mellitus (diagnosed 2019)",
+    "Osteoarthritis bilateral knees (diagnosed 2020)",
+    "Obesity — BMI 32"
+  ],
+  "allergies": ["Penicillin"],
+  "current_medications": [
+    {"name": "Paracetamol", "dosage": "650mg", "frequency": "Thrice daily (SOS for pain)", "start_date": "2025-03-05"},
+    {"name": "Aceclofenac", "dosage": "100mg", "frequency": "Twice daily (after food)", "start_date": "2025-03-05"},
+    {"name": "Pantoprazole", "dosage": "40mg", "frequency": "Once daily (before breakfast)", "start_date": "2025-03-05"},
+    {"name": "Metformin", "dosage": "500mg", "frequency": "Twice daily", "start_date": "2019-11-10"},
+    {"name": "Iron + Folic Acid", "dosage": "1 tablet", "frequency": "Once daily", "start_date": "2025-03-07"},
+    {"name": "Enoxaparin (Clexane)", "dosage": "40mg", "frequency": "Once daily subcutaneous injection (DVT prophylaxis)", "start_date": "2025-03-05", "end_date": "2025-04-02"}
+  ],
+  "care_plan": {
+    "visit_frequency": "Daily (post-surgical protocol — first 4 weeks)",
+    "primary_goals": [
+      "Surgical wound monitoring and dressing",
+      "Physiotherapy — ROM exercises for right knee",
+      "DVT prophylaxis (Enoxaparin injections)",
+      "Pain management",
+      "Blood glucose management during recovery"
+    ],
+    "scheduled_assessments": [
+      "Daily: Wound inspection, vitals, pain score, knee ROM measurement",
+      "Daily: Enoxaparin injection (nurse-administered)",
+      "Weekly: Wound photography for tracking",
+      "Post-op Day 14: Suture removal (scheduled March 19 — done)",
+      "Post-op Day 30: Surgeon review (scheduled April 4)"
+    ]
+  },
+  "primary_family_contact": {
+    "name": "Arvind Venkatesh",
+    "relation": "Son",
+    "location": "Hyderabad (local)",
+    "notes": "Works in IT. Available mornings and evenings. Manages logistics and communicates with surgeon."
+  },
+  "secondary_family_contact": {
+    "name": "Padma",
+    "relation": "Hired attendant/caretaker",
+    "notes": "Full-time home caretaker. Helps with mobility, meals, and basic care. Telugu-speaking."
+  },
+  "supervising_physician": {
+    "name": "Dr. Suresh Reddy",
+    "specialization": "Orthopedic Surgery",
+    "last_review_date": "2025-03-22",
+    "next_review_date": "2025-04-04"
+  },
+  "address": "Villa 15, Green Valley Colony, Gachibowli, Hyderabad",
+  "enrollment_date": "2025-03-07"
+}

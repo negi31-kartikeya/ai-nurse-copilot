@@ -1,0 +1,56 @@
+{
+  "patient_id": "P001",
+  "name": "Ramesh Sharma",
+  "age": 72,
+  "gender": "Male",
+  "preferred_address": "Sharma uncle",
+  "primary_diagnoses": [
+    "Type 2 Diabetes Mellitus (diagnosed 2016)",
+    "Hypertension Stage 2 (diagnosed 2018)",
+    "Mild Chronic Kidney Disease — Stage 3a (diagnosed 2023)"
+  ],
+  "allergies": ["Sulfonamides", "Shellfish"],
+  "current_medications": [
+    {"name": "Metformin", "dosage": "500mg", "frequency": "Twice daily (morning & evening)", "start_date": "2016-03-15"},
+    {"name": "Amlodipine", "dosage": "5mg", "frequency": "Once daily (morning)", "start_date": "2018-07-20"},
+    {"name": "Telmisartan", "dosage": "40mg", "frequency": "Once daily (morning)", "start_date": "2020-01-10"},
+    {"name": "Atorvastatin", "dosage": "10mg", "frequency": "Once daily (night)", "start_date": "2019-05-01"},
+    {"name": "Aspirin", "dosage": "75mg", "frequency": "Once daily (after lunch)", "start_date": "2019-05-01"}
+  ],
+  "care_plan": {
+    "visit_frequency": "3 times per week (Mon, Wed, Fri)",
+    "primary_goals": [
+      "Blood glucose management (target fasting: 100-130 mg/dL, post-meal: <180 mg/dL)",
+      "Blood pressure control (target: <140/90 mmHg)",
+      "Renal function monitoring (quarterly eGFR and urine albumin)",
+      "Fall prevention and mobility maintenance"
+    ],
+    "scheduled_assessments": [
+      "Daily: Blood glucose (fasting + post-meal), BP",
+      "Weekly: Weight measurement",
+      "Monthly: Foot examination for diabetic neuropathy",
+      "Quarterly: HbA1c, renal panel"
+    ]
+  },
+  "primary_family_contact": {
+    "name": "Priya Sharma",
+    "relation": "Daughter",
+    "location": "San Francisco, USA (NRI)",
+    "phone": "+1-XXX-XXX-XXXX",
+    "notes": "Primary decision-maker. Part of Apollo NRI 360 program. Very involved, checks in daily via WhatsApp."
+  },
+  "secondary_family_contact": {
+    "name": "Sunita Sharma",
+    "relation": "Wife",
+    "age": 68,
+    "notes": "Lives with patient. Manages daily meals and medication reminders. Has mild arthritis."
+  },
+  "supervising_physician": {
+    "name": "Dr. Anjali Mehta",
+    "specialization": "Internal Medicine & Diabetology",
+    "last_review_date": "2025-03-20",
+    "next_review_date": "2025-04-03"
+  },
+  "address": "Flat 302, Sai Residency, Jubilee Hills, Hyderabad",
+  "enrollment_date": "2024-09-15"
+}

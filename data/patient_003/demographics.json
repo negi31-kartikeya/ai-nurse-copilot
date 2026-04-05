@@ -1,0 +1,58 @@
+{
+  "patient_id": "P003",
+  "name": "Mohammed Ismail",
+  "age": 68,
+  "gender": "Male",
+  "preferred_address": "Ismail sahab",
+  "primary_diagnoses": [
+    "Chronic Obstructive Pulmonary Disease — GOLD Stage 3 (Severe) (diagnosed 2020)",
+    "Hypertension Stage 1 (diagnosed 2017)",
+    "Ex-smoker — 30 pack-year history (quit 2020 after COPD diagnosis)",
+    "Mild depression (diagnosed 2024)"
+  ],
+  "allergies": ["None known"],
+  "current_medications": [
+    {"name": "Tiotropium Bromide (Spiriva)", "dosage": "18mcg", "frequency": "Once daily inhaler (morning)", "start_date": "2020-06-15"},
+    {"name": "Formoterol + Budesonide (Symbicort)", "dosage": "200/6mcg", "frequency": "Twice daily inhaler (morning & evening)", "start_date": "2021-01-10"},
+    {"name": "Salbutamol (Asthalin) Inhaler", "dosage": "100mcg", "frequency": "SOS — rescue inhaler", "start_date": "2020-06-15"},
+    {"name": "Amlodipine", "dosage": "5mg", "frequency": "Once daily (morning)", "start_date": "2017-09-20"},
+    {"name": "Escitalopram", "dosage": "10mg", "frequency": "Once daily (night)", "start_date": "2024-04-01"},
+    {"name": "Azithromycin", "dosage": "250mg", "frequency": "3 times/week (Mon, Wed, Fri) — prophylactic for exacerbation prevention", "start_date": "2024-11-01"}
+  ],
+  "care_plan": {
+    "visit_frequency": "2 times per week (Tuesday, Saturday)",
+    "primary_goals": [
+      "COPD management — prevent exacerbations",
+      "Inhaler technique monitoring — patient struggles with correct technique",
+      "SpO2 monitoring — target > 92%",
+      "Depression monitoring and medication compliance",
+      "Pulmonary rehab exercises (breathing exercises, light walking)"
+    ],
+    "scheduled_assessments": [
+      "Every visit: SpO2, BP, respiratory rate, peak flow meter reading",
+      "Weekly: 6-minute walk test (modified — indoor)",
+      "Monthly: PHQ-9 depression screening",
+      "Quarterly: Spirometry, chest X-ray"
+    ]
+  },
+  "primary_family_contact": {
+    "name": "Zainab Ismail",
+    "relation": "Wife",
+    "location": "Hyderabad (local)",
+    "notes": "Primary caregiver. Very attentive. Manages medications. Urdu/Hindi speaking."
+  },
+  "secondary_family_contact": {
+    "name": "Faisal Ismail",
+    "relation": "Son",
+    "location": "Dubai, UAE (NRI)",
+    "notes": "Sends money for care. Calls weekly. Part of Apollo NRI 360 program. Worried about father's mental health."
+  },
+  "supervising_physician": {
+    "name": "Dr. Pradeep Gupta",
+    "specialization": "Pulmonology",
+    "last_review_date": "2025-03-18",
+    "next_review_date": "2025-04-01"
+  },
+  "address": "H.No 8-2-412, Old City, Charminar, Hyderabad",
+  "enrollment_date": "2024-05-01"
+}
